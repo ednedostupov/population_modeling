@@ -1,0 +1,11 @@
+{
+    "iterations_count": 1000,
+    "space_size": 20,
+    "iterations_per_year": 365,
+
+    "vegetative_start": 120,
+    "vegetative_end": 300,
+    "minimum_value": 100,
+    "maximum_value": 1000,
+    "increase_coefficient": 2
+}
